@@ -1,0 +1,28 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "Learning Namaste React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kumar-Bipin/Namaste-React.git"
+  },
+  "author": "Bipin Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kumar-Bipin/Namaste-React/issues"
+  },
+  "homepage": "https://github.com/Kumar-Bipin/Namaste-React#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
